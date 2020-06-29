@@ -8,3 +8,4 @@ Hier erzähle ich euch etwas über mich. Dieser Kurs ist sehr interessant und ic
 Zitat:
 > Hier könnte ein Zitat stehen 
 > wenn ich eines wüsste
+<img src="bild.png"/>
